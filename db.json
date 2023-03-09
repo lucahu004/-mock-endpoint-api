@@ -5,14 +5,12 @@
         "titolo": "tit1",
         "url": "tit1.com",
         "like": 60
-       },
-       
+       },    
        {
-         "id": 2,
+        "id": 2,
         "titolo": "tit2",
         "url": "tit.it",
         "like": 10
        }
   ]
-
 }
